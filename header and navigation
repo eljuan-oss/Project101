@@ -1,0 +1,8 @@
+<header class="navbar">
+  <div class="logo">AURA STUDIOS</div>
+  <nav>
+    <ul class="nav-links">
+      <!-- Nav items go here -->
+    </ul>
+  </nav>
+</header>
