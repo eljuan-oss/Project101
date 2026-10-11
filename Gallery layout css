@@ -1,0 +1,13 @@
+.gallery-grid {
+  display: flex;
+  width: 100vw;
+  height: 180px;
+  background-color: #000;
+}
+
+.gallery-item {
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
