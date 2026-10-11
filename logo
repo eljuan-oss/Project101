@@ -1,0 +1,10 @@
+.logo {
+  background-color: #ffffff;
+  color: #111111;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 3px;
+  padding: 8px 18px;
+  display: inline-block;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
