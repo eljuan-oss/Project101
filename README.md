@@ -1,19 +1,21 @@
 Website Biography: Aura Studios
-Overview
+
 Aura Studios is a modern, minimalist single-page photography portfolio designed to showcase high-impact visual storytelling. Built with clean HTML5 and custom CSS3, the website presents a striking contrast between expansive full-bleed imagery and minimal typography.
 
-Design Concept & Aesthetic
-Monochrome Precision: Built on a deep black background (#000000) paired with sharp white elements, creating an editorial, high-fashion aesthetic.
+ Design Concept & Aesthetic
+Visual Theme: Modern, minimalist, single-page photography portfolio with an editorial, high-fashion aesthetic.
 
-Branding: Features a distinct, high-contrast white logo badge (AURA STUDIOS) positioned prominently in the upper left corner.
+Color Palette: Monochrome precision using a deep black (#000000) background contrasted with sharp white elements.
 
-Centered Messaging: Displays the central studio ethos—"Capturing life's beautiful moments through creative and timeless photography"—rendered in uppercase <h5> typography layered over the hero visual.
+Branding: Prominent white logo badge (AURA STUDIOS) fixed in the upper-left corner.
 
-Immersive Layout: Integrates a full-screen background hero image alongside a seamless 5-column thumbnail strip across the bottom viewport, allowing visitors to instantly preview diverse portfolio pieces ranging from portraiture to nature and lifestyle photography.
+Core Ethos: "Capturing life's beautiful moments through creative and timeless photography" displayed in uppercase <h5> typography over the hero visual.
 
-Technical Architecture
-Structure: Single-page responsive layout utilizing HTML5 semantic tags (<header>, <nav>, <section>).
+Layout: Full-screen background hero image paired with a seamless 5-column thumbnail strip along the bottom viewport showcasing portraits, nature, and lifestyle photography.
 
-Styling: Modular CSS flexbox positioning, overlay effects (rgba), letter-spacing tracking, and CSS keyframe/transition hover micro-interactions.
+ Technical Architecture
+Structure: Single-page responsive HTML5 layout using semantic structural tags (<header>, <nav>, <section>).
 
-Typography: Powered by Google's Montserrat typeface across variable font weights (300 through 700).
+Styling & Layout: Modern CSS Flexbox layout, semi-transparent overlays (rgba), custom letter-spacing tracking, and CSS keyframe/transition hover micro-interactions.
+
+Typography: Powered by the Montserrat typeface, utilizing variable weights ranging from 300 (Light) to 700 (Bold).
