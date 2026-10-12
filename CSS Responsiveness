@@ -1,0 +1,22 @@
+@media (max-width: 900px) {
+  .navbar {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .nav-links {
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .hero h5 {
+    font-size: 14px;
+    letter-spacing: 2px;
+  }
+  
+  .gallery-grid {
+    height: 120px;
+  }
+}
