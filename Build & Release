@@ -1,0 +1,3 @@
+# Final validation check
+html5validator index.html
+stylelint styles.css
